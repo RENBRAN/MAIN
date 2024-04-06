@@ -1,0 +1,4 @@
+[submodule "formio/formio"]
+	path = formio/formio
+	url = git@github.com:formio/formio.git
+	branch = 3.5.x
