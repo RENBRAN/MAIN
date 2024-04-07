@@ -2,3 +2,8 @@
 	path = formio/formio
 	url = git@github.com:formio/formio.git
 	branch = 3.5.x
+
+[submodule "Abdelrahman-Hanafy/Estate-Management"]
+	path = Abdelrahman-Hanafy/Estate-Management
+	url = git@github.com:Abdelrahman-Hanafy/Estate-Management.git
+	branch = master
