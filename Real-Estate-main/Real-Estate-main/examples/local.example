@@ -1,0 +1,12 @@
+[options]
+admin_passwd = test123
+db_name=odoo-test
+list_db=True
+db_host = localhost
+db_port = 5432
+db_user = test_user
+db_password = test_pass
+dbfilter = False
+db_list = True
+addons_path = /FullPath/Real-Estate/odoo/addons,/FullPath/Real-Estate/odoo/odoo/addons,/FullPath/Real-Estate/estate,
+http_port = 8069
